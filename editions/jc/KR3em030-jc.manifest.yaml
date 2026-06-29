@@ -1,0 +1,2080 @@
+canonical_identifier: bkk:krp/KR3em030/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em030/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重訂囊秘喉書
+  identifiers:
+    krp: KR3em030
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em030.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em030_000-jc.yaml, hash: 'sha256:7e5f69abc8d188dc5b61770d593ee697a7abbfcfc25ff9d465de7fcfa6117fa2'}
+  - {seq: 1, filename: KR3em030_001-jc.yaml, hash: 'sha256:21781fe154cb7051995b2d2f4a99420bb0bfdf3a27028801f21efbc3375bf1df'}
+  - {seq: 3, filename: KR3em030_003-jc.yaml, hash: 'sha256:ca8eb13b19c27a80e54cfdbe0815c738e8ec03555b18743ef1646edb7411c18f'}
+  - {seq: 0, filename: KR3em030_000-jc.yaml, hash: 'sha256:c91ca356ac26b0ff6d592bde3dbedc15a1b603ca5f78d1098a29ad712a4cae48'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em030_000-jc.markers.yaml, hash: 'sha256:7bb421258336bad11ce2ee06143838f621e62cf2f4109a15e45279fa665e2674'}
+  - {seq: 1, role: markers, filename: assets/KR3em030_001-jc.markers.yaml, hash: 'sha256:ab6afd530efeaa46eba1aeb5c79b90ed57926523046c6343b797a9f6b19a30fa'}
+  - {seq: 3, role: markers, filename: assets/KR3em030_003-jc.markers.yaml, hash: 'sha256:86300e9af5de732fb88dc75212010c302e735ce633cc95ee4dd781ce0172a6f8'}
+  - {seq: 0, role: markers, filename: assets/KR3em030_000-jc.markers.yaml, hash: 'sha256:7bb421258336bad11ce2ee06143838f621e62cf2f4109a15e45279fa665e2674'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 244
+  label: 張序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d3.h1s1
+    span:
+    - front
+    - 244
+    - 645
+  label: 俞序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 162
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 9673
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 755
+  label: 診法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d2d2
+    span:
+    - body
+    - 4
+    - 198
+  label: 診喉症當辨內外二因
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d2d3
+    span:
+    - body
+    - 198
+    - 450
+  label: 論脈之部位及其現狀
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d2d4
+    span:
+    - body
+    - 450
+    - 755
+  label: 論舌之部位及其所屬
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5d3
+    span:
+    - body
+    - 755
+    - 2023
+  label: 辨症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d3d2
+    span:
+    - body
+    - 757
+    - 1622
+  label: 咽喉症有虛實寒熱之不同及其治法論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d3d3
+    span:
+    - body
+    - 1622
+    - 2023
+  label: 論纏喉風不宜過用滌痰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5d4
+    span:
+    - body
+    - 2023
+    - 5193
+  label: 類證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d2
+    span:
+    - body
+    - 2025
+    - 2348
+  label: 一乳蛾
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d3
+    span:
+    - body
+    - 2348
+    - 2441
+  label: 二喉菌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d4
+    span:
+    - body
+    - 2441
+    - 2487
+  label: 三蟻毒瘻
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d5
+    span:
+    - body
+    - 2487
+    - 2671
+  label: 四喉癬
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d6
+    span:
+    - body
+    - 2671
+    - 2738
+  label: 五塞喉風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d7
+    span:
+    - body
+    - 2738
+    - 2812
+  label: 六喉癰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d8
+    span:
+    - body
+    - 2812
+    - 3090
+  label: 七䵟舌喉癰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d9
+    span:
+    - body
+    - 3090
+    - 3277
+  label: 八纏喉風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d10
+    span:
+    - body
+    - 3277
+    - 3322
+  label: 九喉刺
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d11
+    span:
+    - body
+    - 3322
+    - 3408
+  label: 十酒毒喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d12
+    span:
+    - body
+    - 3408
+    - 3546
+  label: 十一喉瘤
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d13
+    span:
+    - body
+    - 3546
+    - 3589
+  label: 十二喉肉球
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d14
+    span:
+    - body
+    - 3589
+    - 3655
+  label: 十三心出氣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d15
+    span:
+    - body
+    - 3655
+    - 3687
+  label: 十四喉百葉
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d16
+    span:
+    - body
+    - 3687
+    - 3719
+  label: 十五牙槽風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d17
+    span:
+    - body
+    - 3719
+    - 3767
+  label: 十六牙漏
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d18
+    span:
+    - body
+    - 3767
+    - 3785
+  label: 十七牙䵟
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d19
+    span:
+    - body
+    - 3785
+    - 3821
+  label: 十八牙宣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d20
+    span:
+    - body
+    - 3821
+    - 3944
+  label: 十九牙癰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d21
+    span:
+    - body
+    - 3944
+    - 4019
+  label: 二十牙菌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d22
+    span:
+    - body
+    - 4019
+    - 4070
+  label: 二十一穿牙疔毒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d23
+    span:
+    - body
+    - 4070
+    - 4140
+  label: 二十二走馬疳
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d24
+    span:
+    - body
+    - 4140
+    - 4318
+  label: 二十三小兒走馬疳
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d25
+    span:
+    - body
+    - 4318
+    - 4351
+  label: 二十四崩砂口疳風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d26
+    span:
+    - body
+    - 4351
+    - 4420
+  label: 二十五舌癰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d27
+    span:
+    - body
+    - 4420
+    - 4449
+  label: 二十六重舌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d28
+    span:
+    - body
+    - 4449
+    - 4497
+  label: 二十七蟬舌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d29
+    span:
+    - body
+    - 4497
+    - 4554
+  label: 二十八連珠口疳風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d30
+    span:
+    - body
+    - 4554
+    - 4645
+  label: 二十九木舌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d31
+    span:
+    - body
+    - 4645
+    - 4732
+  label: 三十蛾口
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d32
+    span:
+    - body
+    - 4732
+    - 4803
+  label: 三十一馬牙
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d33
+    span:
+    - body
+    - 4803
+    - 4910
+  label: 三十二懸癰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d34
+    span:
+    - body
+    - 4910
+    - 4939
+  label: 三十三松子風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d35
+    span:
+    - body
+    - 4939
+    - 4984
+  label: 三十四結毒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d36
+    span:
+    - body
+    - 4984
+    - 4999
+  label: 三十五紫舌脹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d37
+    span:
+    - body
+    - 4999
+    - 5042
+  label: 三十六舌菌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d38
+    span:
+    - body
+    - 5042
+    - 5081
+  label: 三十七帝中喉風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d39
+    span:
+    - body
+    - 5081
+    - 5106
+  label: 三十八頰癰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d40
+    span:
+    - body
+    - 5106
+    - 5137
+  label: 三十九蜂子毒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d41
+    span:
+    - body
+    - 5137
+    - 5167
+  label: 四十面癰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d4d42
+    span:
+    - body
+    - 5167
+    - 5193
+  label: 四十一托腮癰
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5d5
+    span:
+    - body
+    - 5193
+    - 7203
+  label: 治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5d6
+    span:
+    - body
+    - 7203
+    - 9673
+  label: 藥例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6d2
+    span:
+    - body
+    - 7205
+    - 9673
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d4
+    span:
+    - body
+    - 7636
+    - 7738
+  label: 一治雙單連珠乳蛾
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d5
+    span:
+    - body
+    - 7738
+    - 7888
+  label: 二治喉癰
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d6
+    span:
+    - body
+    - 7888
+    - 7960
+  label: 三治喉癬
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d7
+    span:
+    - body
+    - 7960
+    - 8058
+  label: 四治喉菌
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d8
+    span:
+    - body
+    - 8058
+    - 8112
+  label: 五治䵟舌喉癰
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d9
+    span:
+    - body
+    - 8112
+    - 8195
+  label: 六治纏喉風
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d10
+    span:
+    - body
+    - 8195
+    - 8235
+  label: 七治酒毒喉
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d11
+    span:
+    - body
+    - 8235
+    - 8319
+  label: 八治鏁喉風
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d12
+    span:
+    - body
+    - 8319
+    - 8363
+  label: 九治喉瘤
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d13
+    span:
+    - body
+    - 8363
+    - 8400
+  label: 十治喉肉球
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d14
+    span:
+    - body
+    - 8400
+    - 8440
+  label: 十一治心出氣
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d15
+    span:
+    - body
+    - 8440
+    - 8465
+  label: 十二治喉百葉
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d16
+    span:
+    - body
+    - 8465
+    - 8622
+  label: 十三治牙槽風
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d17
+    span:
+    - body
+    - 8622
+    - 8698
+  label: 十四治牙漏
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d18
+    span:
+    - body
+    - 8698
+    - 8742
+  label: 十五治牙咬癰
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d19
+    span:
+    - body
+    - 8742
+    - 8770
+  label: 十六治牙䵟毒
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d20
+    span:
+    - body
+    - 8770
+    - 8890
+  label: 十七治牙宣
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d21
+    span:
+    - body
+    - 8890
+    - 8928
+  label: 十八治牙癰牙菌
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d22
+    span:
+    - body
+    - 8928
+    - 9010
+  label: 十九治穿牙疔毒
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d23
+    span:
+    - body
+    - 9010
+    - 9034
+  label: 二十治舌癰
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d24
+    span:
+    - body
+    - 9034
+    - 9079
+  label: 二十一治木舌
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d25
+    span:
+    - body
+    - 9079
+    - 9100
+  label: 二十二治重舌
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d26
+    span:
+    - body
+    - 9100
+    - 9131
+  label: 二十三治舌出三寸不收
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d27
+    span:
+    - body
+    - 9131
+    - 9157
+  label: 二十四治舌縮無言
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d28
+    span:
+    - body
+    - 9157
+    - 9186
+  label: 二十五治紫舌脹
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d29
+    span:
+    - body
+    - 9186
+    - 9199
+  label: 二十六治口舌嘴碎
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d30
+    span:
+    - body
+    - 9199
+    - 9231
+  label: 二十七治蟻毒瘻
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d31
+    span:
+    - body
+    - 9231
+    - 9255
+  label: 二十八治頭面托腮等癰
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d32
+    span:
+    - body
+    - 9255
+    - 9295
+  label: 二十九治上顎癰
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d33
+    span:
+    - body
+    - 9295
+    - 9347
+  label: 三十治老幼走馬牙疳
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d34
+    span:
+    - body
+    - 9347
+    - 9394
+  label: 三十一治穿腮牙落之重疳
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d35
+    span:
+    - body
+    - 9394
+    - 9411
+  label: 三十二治舌喉結毒
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d36
+    span:
+    - body
+    - 9411
+    - 9444
+  label: 三十三治咽喉腫痛
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d37
+    span:
+    - body
+    - 9444
+    - 9479
+  label: 三十四治帝丁腫脹
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d38
+    span:
+    - body
+    - 9479
+    - 9499
+  label: 三十五治小兒螳螂子
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d39
+    span:
+    - body
+    - 9499
+    - 9554
+  label: 三十六治小兒雪口
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d40
+    span:
+    - body
+    - 9554
+    - 9585
+  label: 三十七治小兒馬牙
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d41
+    span:
+    - body
+    - 9585
+    - 9605
+  label: 三十八治諸骨鯁
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d42
+    span:
+    - body
+    - 9605
+    - 9649
+  label: 三十九治唇口破腫而硬
+  type: section
+  level: 4
+- ref:
+    seq: 1
+    marker_id: KR3em030_jc_001-d5.d6.d2d43
+    span:
+    - body
+    - 9649
+    - 9673
+  label: 四十治諸癰堅硬不消
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 6947
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 4235
+  label: 醫方論上
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d2
+    span:
+    - body
+    - 6
+    - 433
+  label: 一甘遂散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d3
+    span:
+    - body
+    - 433
+    - 545
+  label: 二陰陽散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d4
+    span:
+    - body
+    - 545
+    - 763
+  label: 三連砂散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d5
+    span:
+    - body
+    - 763
+    - 906
+  label: 四散堅方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d6
+    span:
+    - body
+    - 906
+    - 962
+  label: 五去腐方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d7
+    span:
+    - body
+    - 962
+    - 1257
+  label: 六鐘乳石散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d8
+    span:
+    - body
+    - 1257
+    - 1306
+  label: 七柳仙散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d9
+    span:
+    - body
+    - 1306
+    - 1353
+  label: 八螻蛄散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d10
+    span:
+    - body
+    - 1353
+    - 1424
+  label: 九琥珀散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d11
+    span:
+    - body
+    - 1424
+    - 1509
+  label: 十喉癬方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d12
+    span:
+    - body
+    - 1509
+    - 1552
+  label: 十一蝕鼻方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d13
+    span:
+    - body
+    - 1552
+    - 1621
+  label: 十二代針散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d14
+    span:
+    - body
+    - 1621
+    - 1737
+  label: 十三珍珠散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d15
+    span:
+    - body
+    - 1737
+    - 1764
+  label: 十四麝香散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d16
+    span:
+    - body
+    - 1764
+    - 1788
+  label: 十五開關散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d17
+    span:
+    - body
+    - 1788
+    - 1835
+  label: 十六熏鼻方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d18
+    span:
+    - body
+    - 1835
+    - 1930
+  label: 十七勝煙筒
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d19
+    span:
+    - body
+    - 1930
+    - 1969
+  label: 十八山甲散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d20
+    span:
+    - body
+    - 1969
+    - 2031
+  label: 十九珠黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d21
+    span:
+    - body
+    - 2031
+    - 2120
+  label: 二十消標散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d22
+    span:
+    - body
+    - 2120
+    - 2174
+  label: 二十一青靈丹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d23
+    span:
+    - body
+    - 2174
+    - 2408
+  label: 二十二紫雪丹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d24
+    span:
+    - body
+    - 2408
+    - 2563
+  label: 二十三硇砂散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d25
+    span:
+    - body
+    - 2563
+    - 2724
+  label: 二十四固齒白玉膏
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d26
+    span:
+    - body
+    - 2724
+    - 2819
+  label: 二十五拔疔散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d27
+    span:
+    - body
+    - 2819
+    - 2858
+  label: 二十六小薊散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d28
+    span:
+    - body
+    - 2858
+    - 2901
+  label: 二十七牢牙散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d29
+    span:
+    - body
+    - 2901
+    - 2958
+  label: 二十八加味硝黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d30
+    span:
+    - body
+    - 2958
+    - 3008
+  label: 二十九七味殭蠶散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d31
+    span:
+    - body
+    - 3008
+    - 3090
+  label: 三十八味薄荷散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d32
+    span:
+    - body
+    - 3090
+    - 3191
+  label: 三十一銅綠散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d33
+    span:
+    - body
+    - 3191
+    - 3263
+  label: 三十二加味銅綠散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d34
+    span:
+    - body
+    - 3263
+    - 3329
+  label: 三十三紅棗散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d35
+    span:
+    - body
+    - 3329
+    - 3438
+  label: 三十四地骨皮散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d36
+    span:
+    - body
+    - 3438
+    - 3494
+  label: 三十五白田螺散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d37
+    span:
+    - body
+    - 3494
+    - 3557
+  label: 三十六人中白散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d38
+    span:
+    - body
+    - 3557
+    - 3577
+  label: 三十七抹口方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d39
+    span:
+    - body
+    - 3577
+    - 3639
+  label: 三十八牛黃益金散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d40
+    span:
+    - body
+    - 3639
+    - 3688
+  label: 三十九玉鑰匙
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d41
+    span:
+    - body
+    - 3688
+    - 3774
+  label: 四十喉癬神方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d42
+    span:
+    - body
+    - 3774
+    - 3868
+  label: 四十一喉風急救神方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d43
+    span:
+    - body
+    - 3868
+    - 3929
+  label: 四十二冰硼散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d44
+    span:
+    - body
+    - 3929
+    - 4004
+  label: 四十三爛喉痧方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d45
+    span:
+    - body
+    - 4004
+    - 4051
+  label: 四十四三黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d46
+    span:
+    - body
+    - 4051
+    - 4146
+  label: 四十五又方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d47
+    span:
+    - body
+    - 4146
+    - 4191
+  label: 四十六熊膽冰黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d2d48
+    span:
+    - body
+    - 4191
+    - 4235
+  label: 四十七柳黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6d3
+    span:
+    - body
+    - 4235
+    - 6020
+  label: 醫方論下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d2
+    span:
+    - body
+    - 4239
+    - 4336
+  label: 一上清丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d3
+    span:
+    - body
+    - 4336
+    - 4468
+  label: 二噙化丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d4
+    span:
+    - body
+    - 4468
+    - 4578
+  label: 三百草膏
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d5
+    span:
+    - body
+    - 4578
+    - 4648
+  label: 四內托護心散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d6
+    span:
+    - body
+    - 4648
+    - 4725
+  label: 五又方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d7
+    span:
+    - body
+    - 4725
+    - 4749
+  label: 六清肺飲
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d8
+    span:
+    - body
+    - 4749
+    - 4815
+  label: 七犀角地黃湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d9
+    span:
+    - body
+    - 4815
+    - 4845
+  label: 八導赤散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d10
+    span:
+    - body
+    - 4845
+    - 4863
+  label: 九四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d11
+    span:
+    - body
+    - 4863
+    - 4901
+  label: 十六一散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d12
+    span:
+    - body
+    - 4901
+    - 4966
+  label: 十一蜜煎導法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d13
+    span:
+    - body
+    - 4966
+    - 4999
+  label: 十二瀉黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d14
+    span:
+    - body
+    - 4999
+    - 5033
+  label: 十三錢乙瀉黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d15
+    span:
+    - body
+    - 5033
+    - 5064
+  label: 十四清咽太平丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d16
+    span:
+    - body
+    - 5064
+    - 5105
+  label: 十五甘露飲
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d17
+    span:
+    - body
+    - 5105
+    - 5138
+  label: 十六黃連解毒湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d18
+    span:
+    - body
+    - 5138
+    - 5175
+  label: 十七涼膈散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d19
+    span:
+    - body
+    - 5175
+    - 5206
+  label: 十八清胃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d20
+    span:
+    - body
+    - 5206
+    - 5244
+  label: 十九瀉白散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d21
+    span:
+    - body
+    - 5244
+    - 5273
+  label: 二十涼肺湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d22
+    span:
+    - body
+    - 5273
+    - 5314
+  label: 二十一消毒犀角飲
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d23
+    span:
+    - body
+    - 5314
+    - 5414
+  label: 二十二玉液上清丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d24
+    span:
+    - body
+    - 5414
+    - 5475
+  label: 二十三清咽訶子丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d25
+    span:
+    - body
+    - 5475
+    - 5514
+  label: 二十四柏母丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d26
+    span:
+    - body
+    - 5514
+    - 5560
+  label: 二十五柏花丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d27
+    span:
+    - body
+    - 5560
+    - 5667
+  label: 二十六除瘡落菌膏
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d28
+    span:
+    - body
+    - 5667
+    - 5704
+  label: 二十七利膈湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d29
+    span:
+    - body
+    - 5704
+    - 5788
+  label: 二十八玉屑無憂散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d30
+    span:
+    - body
+    - 5788
+    - 5834
+  label: 二十九加味射干湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d31
+    span:
+    - body
+    - 5834
+    - 5890
+  label: 三十滋陰消痹湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d32
+    span:
+    - body
+    - 5890
+    - 5955
+  label: 三十一清肺散火湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d3d33
+    span:
+    - body
+    - 5955
+    - 6020
+  label: 三十二滋水開陰湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6d4
+    span:
+    - body
+    - 6020
+    - 6947
+  label: 製藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d2
+    span:
+    - body
+    - 6022
+    - 6298
+  label: 一制玉丹法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d3
+    span:
+    - body
+    - 6298
+    - 6321
+  label: 二制黑魚膽法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d4
+    span:
+    - body
+    - 6321
+    - 6406
+  label: 三制燈草灰法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d5
+    span:
+    - body
+    - 6406
+    - 6509
+  label: 四制巴豆法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d6
+    span:
+    - body
+    - 6509
+    - 6713
+  label: 五制蜒蚰梅法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d7
+    span:
+    - body
+    - 6713
+    - 6759
+  label: 六制琥珀法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d8
+    span:
+    - body
+    - 6759
+    - 6801
+  label: 七制指甲法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d9
+    span:
+    - body
+    - 6801
+    - 6849
+  label: 八制硇砂法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d10
+    span:
+    - body
+    - 6849
+    - 6909
+  label: 九制螻蛄法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em030_jc_003-d6.d4d11
+    span:
+    - body
+    - 6909
+    - 6947
+  label: 十制煉鹽法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 868
+  label: 附錄驗方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d7d2
+    span:
+    - body
+    - 4
+    - 232
+  label: 喉風奪命丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d7d3
+    span:
+    - body
+    - 232
+    - 322
+  label: 黑吹藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d7d4
+    span:
+    - body
+    - 322
+    - 403
+  label: 制豬膽法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d7d5
+    span:
+    - body
+    - 403
+    - 465
+  label: 走馬疳方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d7d6
+    span:
+    - body
+    - 465
+    - 771
+  label: 救急破棺丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d7d7
+    span:
+    - body
+    - 771
+    - 868
+  label: 王夢隱青龍白虎湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d8.h1s1
+    span:
+    - body
+    - 868
+    - 1002
+  label: 王跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d9.h1s1
+    span:
+    - body
+    - 1002
+    - 1238
+  label: 張跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d10.h1s1
+    span:
+    - body
+    - 1238
+    - 2022
+  label: 增錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d10d10
+    span:
+    - body
+    - 1447
+    - 1526
+  label: 石龍丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d10d11
+    span:
+    - body
+    - 1526
+    - 1597
+  label: 珠燕南飛散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d10d12
+    span:
+    - body
+    - 1597
+    - 1683
+  label: 霹靂針
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d10d13
+    span:
+    - body
+    - 1683
+    - 1731
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d10d14
+    span:
+    - body
+    - 1731
+    - 1784
+  label: 馬培之先生柳華散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em030_jc_000-d10d15
+    span:
+    - body
+    - 1784
+    - 2022
+  label: 冰梅竹月丹
+  type: section
+  level: 2
+hash: sha256:af3909ec74db3e1adabdbad631fb9351648954f26bb56a6126318f97468d0130
