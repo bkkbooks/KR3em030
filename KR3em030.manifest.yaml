@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3em030/v1
 canonical_location: https://kanripo.org/bkk/KR3em030/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 重訂囊秘喉書
   identifiers:
@@ -17,14 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em030_000.yaml, hash: 'sha256:c91ca356ac26b0ff6d592bde3dbedc15a1b603ca5f78d1098a29ad712a4cae48'}
-  - {seq: 1, filename: KR3em030_001.yaml, hash: 'sha256:21781fe154cb7051995b2d2f4a99420bb0bfdf3a27028801f21efbc3375bf1df'}
-  - {seq: 3, filename: KR3em030_003.yaml, hash: 'sha256:ca8eb13b19c27a80e54cfdbe0815c738e8ec03555b18743ef1646edb7411c18f'}
-  - {seq: 0, filename: KR3em030_000.yaml, hash: 'sha256:c91ca356ac26b0ff6d592bde3dbedc15a1b603ca5f78d1098a29ad712a4cae48'}
+  - {seq: 0, filename: KR3em030_000.yaml, hash: 'sha256:be2de5d140919b305715ab52da42b9d781e253bf44a8eb37d93629e8dde5b73e'}
+  - {seq: 1, filename: KR3em030_001.yaml, hash: 'sha256:bc2232e86116ce72068aa79eb1c7b2aa26e3681825be9a9a3187ea60d120e519'}
+  - {seq: 3, filename: KR3em030_003.yaml, hash: 'sha256:967a53cd574eb9daa7736c8e5db78238d155b7d0ec1081afe91ccea60d982e80'}
+  - {seq: 0, filename: KR3em030_000.yaml, hash: 'sha256:be2de5d140919b305715ab52da42b9d781e253bf44a8eb37d93629e8dde5b73e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em030_000.markers.yaml, hash: 'sha256:623023e7b23e7cdb9d631f843d3a1d0ca8b2c514d2163551db68b4ddbc656374'}
-  - {seq: 1, role: markers, filename: assets/KR3em030_001.markers.yaml, hash: 'sha256:922d200ecb2d50522c2ca3af297afa346aebe1bae01e7477f4c0eb47a6cca749'}
-  - {seq: 3, role: markers, filename: assets/KR3em030_003.markers.yaml, hash: 'sha256:4611a2021b860dc2ac086aff724bd203a1e6defb98d94642a68086c13d79ce8c'}
+  - {seq: 0, role: markers, filename: assets/KR3em030_000.markers.yaml, hash: 'sha256:2703aa2a03e1d35533e3a67aa443233032e4b8a8c73728df33f8daffbe79a93e'}
+  - {seq: 1, role: markers, filename: assets/KR3em030_001.markers.yaml, hash: 'sha256:636c18dbe13617b048436ff4c8d7e925094bc5e42049fd57e94371495da2f280'}
+  - {seq: 3, role: markers, filename: assets/KR3em030_003.markers.yaml, hash: 'sha256:716c1ceb221b057c47f08dd81d770fce51102e0e293a30ff226b1a736ae328e3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2076,4 +2076,7 @@ table_of_contents:
   label: 冰梅竹月丹
   type: section
   level: 2
-hash: sha256:cd85b8eea2619c3c1155fd6ef8f6dd9d547634aeba037d510f05587e54230cfe
+hash: sha256:0f883541bc0659c1eb79536dc554ace70b9505947a4780616dceee7948a0176e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
